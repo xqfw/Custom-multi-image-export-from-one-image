@@ -184,5 +184,5 @@ pyinstaller --onefile --windowed --icon=ico.png --add-data "ico.png;." run.pyw
 ## Version Information
 
 - **Version**: 1.4
-- **Author ID**: v：cqxq05
+- **Author ID**: xqfive
 
